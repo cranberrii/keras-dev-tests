@@ -1,3 +1,3 @@
-# keras-dev-tests
+# keras-dev
 
 Playing with Keras
